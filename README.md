@@ -21,7 +21,7 @@ I set up an autoML run using the above dataset.
 The run generated various models.
 ![models](https://github.com/1AishwaryaSH/Operationalizing-ML/blob/main/screenshots/models.JPG)
 The best model found was "VotingEnsemble" with an accuracy of 91.93%.
-![best model](https://github.com/1AishwaryaSH/Operationalizing-ML/blob/main/screenshots/models.JPG)
+![best model](https://github.com/1AishwaryaSH/Operationalizing-ML/blob/main/screenshots/best model.JPG)
 
 Step 3: Deploy the best model
 ![deploy](https://github.com/1AishwaryaSH/Operationalizing-ML/blob/main/screenshots/deploy%20model.JPG)
