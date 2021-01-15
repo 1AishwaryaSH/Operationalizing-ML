@@ -60,13 +60,20 @@ We can find the json output by running the endpoint.py file.
 
 Step 7: Creating and publishing pipelines
 We need to get the config.json file from the subscription area on the right side corner of the workspace.
+The pipelines are created and published using Notebooks by uploading the  aml-pipelines-with-automated-machine-learning-step(1).ipynb file into it.
 ![](https://github.com/1AishwaryaSH/Operationalizing-ML/blob/main/screenshots/pipeline%20submitted.JPG)
 ![](https://github.com/1AishwaryaSH/Operationalizing-ML/blob/main/screenshots/pipeline%20completed.JPG)
 ![](https://github.com/1AishwaryaSH/Operationalizing-ML/blob/main/screenshots/pipeline%20endpoint.JPG)
 ![](https://github.com/1AishwaryaSH/Operationalizing-ML/blob/main/screenshots/publish%20pipeline.JPG)
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
-
-## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
+part1
+https://youtu.be/TljHwZbZ7J0
+notebooks
+https://youtu.be/XzXQUPzEYWc
+endpoints
+https://youtu.be/Pr-0rMj6hWk
+## Future scope
+* I found that the dataset is imbalanced and further use of data cleaning techniques could help us get better accuracy models.
+* We can convert the model to ONNX format.
+* We can make the deployed model available as a web APP.
